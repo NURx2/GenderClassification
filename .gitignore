@@ -1,3 +1,11 @@
+data/
+internship_data.tar.gz
+photos/
+.DS_Store
+task.png
+Task\ description.pdf
+
+.idea/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
