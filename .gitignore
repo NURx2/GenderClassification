@@ -1,9 +1,12 @@
+data.zip
+process_results.json
+test_script/
 data/
 internship_data.tar.gz
 photos/
 .DS_Store
-task.png
 Task\ description.pdf
+SexClassification-archived-.ipynb
 
 .idea/
 # Byte-compiled / optimized / DLL files
